@@ -46,8 +46,10 @@
 <br>
 
 ### IZIN INSTALL SCRIPT
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/) https://t.me/R32WRT_STORE
-
+[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/R32WRT_STORE/)
+<br>
+https://t.me/R32WRT_STORE<br>
+<br>
 
 # UPDATE REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
