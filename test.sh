@@ -1,4 +1,3 @@
-#!/bin/bash
 #!/bin/sh
 skip=23
 set -C
