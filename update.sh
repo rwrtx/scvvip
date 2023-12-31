@@ -37,11 +37,16 @@ fun_bar() {
 res1() {
     wget https://raw.githubusercontent.com/rwrtx/scvvip/main/limit/menu.zip
     wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/rwrtx/scvvip/main/enc/encrypt" ; chmod +x /usr/bin/enc
+    wget https://raw.githubusercontent.com/rwrtx/scvvip/main/bot/bot.zip
+    wget https://raw.githubusercontent.com/rwrtx/scvvip/main/bot/kyt.zip
+    unzip bot.zip
+    unzip kyt.zip
     unzip menu.zip
     chmod +x menu/*
 	enc menu/*
     mv menu/* /usr/local/sbin
-    #rm -rf menu
+    rm -rf bot.zip
+    rm -rf kyt.zip
     rm -rf menu.zip
     rm -rf update.sh
 }
