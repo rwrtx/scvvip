@@ -39,9 +39,10 @@
 <br>
 
 ### SUPPORT PORT
+#
 <br>
-- SSL/TLS : 443 / 8443
-- SSHWS : 80 / 8880 / 8080 / 2082 / 2095 / 2096 / 2022 / 2092
+- SSL/TLS : 443 / 8443<br>
+- SSHWS : 80 / 8880 / 8080 / 2082 / 2095 / 2096 / 2022 / 2092<br>
 <br>
 
 ### IZIN INSTALL SCRIPT
