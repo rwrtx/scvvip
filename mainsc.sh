@@ -18,8 +18,8 @@ NC='\e[0m'
 red='\e[1;31m'
 green='\e[0;32m'
 TIMES="10"
-CHATID="5423129090"
-KEY="6782755839:AAEtaEt8JKHdzXvIDdzNAn1kYuTQxOdgyH4"
+CHATID="-1001882980996"
+KEY="6783726550:AAEN_0ZwKeqZC5yZmbiuIBcLF6JXbRpSk_Q"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 # ===================
 clear
@@ -362,8 +362,7 @@ restart_system(){
 <code>OS LINUX :</code><code>$MODEL</code>
 <code>Domain   :</code><code>$domain</code>
 <code>IP VPS   :</code><code>$MYIP</code>
-<code>ISP      :</code><code>$isp</code>
-<code>CITY     :</code><code>$CITY</code>
+<code>DATE     :</code><code>$DATE</code>
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>────────────────────</code>
